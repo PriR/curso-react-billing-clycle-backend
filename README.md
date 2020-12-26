@@ -5,7 +5,7 @@
 ### 1) Instalar o _Heroku CLI_
 
 ```bash
-$ npm install -g heroku-cli
+$ npm i -g heroku
 ```
 ### 2) Verificar a instalação do _Heroku CLI_
 
